@@ -15,6 +15,6 @@ However, just like Question 6, it has designed to be incredibly challenging (but
 
 If you do somehow win (unlikely but not impossible), the game starts again, but the grid size increases (4x4, 5x5, 6x6 ...). If not, you get to try again.
 
-I will try to make a two player version in the future.
+I will probably try to make a two player version in the future.
 
 Have fun!
