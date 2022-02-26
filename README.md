@@ -1,5 +1,5 @@
 # Puzzle-Grid-Game
-A really cool game that I programmed.
+A really cool game that I programmed using the pygame module.
 
 Initially, the game starts with a 3x3 grid (consisting of 9 small squares). 
 
